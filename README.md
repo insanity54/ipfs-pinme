@@ -5,7 +5,11 @@ a repository of great content to preserve, share, and PIN!
 contributions are very welcome. please keep content ethical.
 
 
-the format of the list is whitespace delimited. IPFS mutlihash followed by a space, and whatever notes you would like to say about the content. (Please make a note for each multihash)
+## The list
+
+The list is `pinMe.txt`.
+
+The format of the list is whitespace delimited. IPFS mutlihash followed by a space, and whatever notes you would like to say about the content. (Please make a note for each multihash)
 
 example:
 

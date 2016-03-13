@@ -1,6 +1,6 @@
 QmavE42xtK1VovJFVTVkCR5Jdf761QWtxmvak9Zx718TVr (brewster's blog)
-QmWHAt5JzbAparPXG5WNbMd68JKbJQKiashA1P6MYAF134 (my remix of uberscientist's ld32 song)
-QmSUJ1MF6RHQPekK3gCNQYtFn2yFtKyJxZSSg9dXzPYJbr (my arrow)
+QmWHAt5JzbAparPXG5WNbMd68JKbJQKiashA1P6MYAF134 (@insanity54 remix of @mindsforge ld32 song)
+QmSUJ1MF6RHQPekK3gCNQYtFn2yFtKyJxZSSg9dXzPYJbr (@insanity54 arrow)
 QmQQ3BUpPjgYiTdhp4H9YWSCtoFXs8t91njhpvXNNLd3yB (krl's geoip data)
 QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D (ipfs example viewer)
 Qmb8tKfz3RFiasE5yoaaU3d4CF7SaCEh8h2z3g6ZoYGvw6 (ipfs website)
