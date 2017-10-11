@@ -1,0 +1,11 @@
+[Unit]
+Description=IPFS Pinner service
+After=ipfs.service
+
+[Service]
+User=ninja
+ExecStart=/home/ninja/ipfs-pinme/pinner-service.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target[Unit]
