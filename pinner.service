@@ -8,4 +8,4 @@ ExecStart=/home/ninja/ipfs-pinme/pinner-service.sh
 Restart=always
 
 [Install]
-WantedBy=multi-user.target[Unit]
+WantedBy=ipfs.service
